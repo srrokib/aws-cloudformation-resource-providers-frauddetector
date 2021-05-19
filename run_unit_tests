@@ -1,1 +1,2 @@
+# pytest --cov=./ -v --cov-report html --cov-report term-missing "$@" -k 'test_update_detector_version_for_detector_update_draft_dv_with_associated_models'
 pytest --cov=./ -v --cov-report html --cov-report term-missing "$@"
